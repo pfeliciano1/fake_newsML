@@ -1,2 +1,2 @@
-# fake_newsML
-Machine Learning project to detect Fake News
+# Fake News ML
+Machine Learning model to detect Fake News
